@@ -63,6 +63,11 @@ Reviewed 12/22
 
 ______
 
+Azure virtual machines
+
+https://learn.microsoft.com/en-us/azure/virtual-network/
+
+Reviewed 12/23
 
 
 ______
