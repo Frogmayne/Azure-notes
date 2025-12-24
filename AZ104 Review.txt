@@ -87,6 +87,12 @@ https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watche
 Introduction to Azure Application Gateway
 https://learn.microsoft.com/en-us/training/modules/intro-to-azure-application-gateway/
 
+Host your domain on Azure DNS
+https://learn.microsoft.com/en-us/training/modules/host-domain-azure-dns/
+
+Host your domain on Azure DNS
+
+
 Reviewed 12/24
 
 ______
