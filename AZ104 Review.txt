@@ -72,8 +72,22 @@ Reviewed 12/23
 
 ______
 
+Manage and control traffic flow in your Azure deployment with routes
+https://learn.microsoft.com/en-us/training/modules/control-network-traffic-flow-with-routes/
 
+Introduction to Azure Load Balancer
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-load-balancer/
 
+Implement a secure hybrid network
+https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz?tabs=portal
+
+Introduction to Azure Network Watcher
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-network-watcher/
+
+Introduction to Azure Application Gateway
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-application-gateway/
+
+Reviewed 12/24
 
 ______
 
